@@ -1,0 +1,169 @@
+#               Translate
+o_tab_translate=Menterjemahkan
+
+#                 Google Translate
+translator_GOOGLE=Google Translate
+#                    Google 翻译
+translator_GOOGLE_CN=Google 翻译
+#               Microsoft Translator
+translator_BING=Microsoft Translator
+#                百度翻译 (Baidu Translator)
+translator_BAIDU=百度翻译 (Baidu Translator)
+
+#         Modal window
+open_in_0=Jendela modal
+#         Popup window
+open_in_1=Jendela popup
+#         New tab
+open_in_2=Tab baru
+#         New window
+open_in_3=Jendela baru
+
+#            Modal window
+modal_window=Jendela modal
+#                   Toolbar icon action
+toolbar_icon_action=Tindakan ikon Toolbar
+
+#                    Translation provider
+translation_provider=Penyedia terjemahan
+#            Translate to:
+translate_to=Terjemahkan ke:
+#          No overlay (the dark area around)
+no_overlay=Tanpa overlay (area gelap di sekitar)
+#               Modal window will stay opened even if you click outside.
+no_overlay_hint=Jendela Modal akan tetap terbuka meskipun Anda mengklik di luar.
+#x                 Open translator in:
+open_translator_in=
+#                   Open translation in:
+open_translation_in=Terjemahan terbuka dalam bahasa:
+#          Fallback method
+fallback_1=Metode fallback
+#          Fallback method
+fallback_2=Metode fallback
+#              Modal window and popup window can't be used in some cases.
+fallback_title=Jendela modal dan jendela popup tidak dapat digunakan dalam beberapa kasus.
+#           Open in new tab
+open_in_tab=Buka di tab baru
+
+#                   Translate this page
+translate_this_page=Terjemahkan halaman ini
+#                   Translate "$1"
+selection_translate=Terjemahkan "$1"
+#              Translate page
+page_translate=Terjemahkan halaman
+
+#             selected text
+selected_text=teks yang dipilih
+
+#                    Disable context menu: "$1"
+disable_context_menu=Nonaktifkan menu konteks: "$1"
+
+
+
+#        Web Translate
+app_name=Web Translate
+#        "Web Translate" is easy to use translator for your Web browser / Thunderbird!
+app_desc="Web Translate" adalah penerjemah yang mudah digunakan untuk browser Web / Thunderbird Anda!
+
+
+#               Import finished!
+import_finished=Impor selesai!
+#            Error
+import_error=Kesalahan
+#                  Import backup file $1
+import_backup_file=Impor file cadangan $1
+
+
+#             Search
+search_search=Cari
+
+
+#        Homepage
+homepage=Beranda
+#          Addon page
+addon_page=Halaman Addon
+
+
+#               Font size
+label_font_size=Ukuran huruf
+#          Next
+label_next=Lanjut
+#          Note:
+label_note=catatan:
+#            Remove
+label_remove=Menghapus
+#             WARNING:
+label_warning=PERINGATAN:
+#             Default:
+label_default=Default:
+#          Done!
+label_done=Selesai!
+#            Copied!
+label_copied=Disalin!
+#           Close
+label_close=Menutup
+#               Open page
+label_open_page=Buka halaman
+
+
+#           Agree
+label_agree=Setuju
+#            Cancel
+label_cancel=Membatalkan
+
+
+#             Help this project
+op_support_me=Bantu proyek ini
+#                 Support independent developer!
+support_developer=Dukung pengembang independen!
+#           Hello there!
+hello_there=Halo!
+#        I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive.
+about_me=Saya adalah pengembang addon sejak 2016 dan tujuan saya adalah membuat ekstensi yang kuat untuk browser web Anda agar Anda lebih produktif.
+#              If you think I'm doing a good job, please donate :)
+about_good_job=Jika menurut Anda saya melakukan pekerjaan dengan baik, silakan berdonasi :)
+#            Your donation is my only income!
+about_income=Donasi Anda adalah satu-satunya penghasilan saya!
+#            Thank you for supporting my work!
+about_thanks=Terima kasih telah mendukung pekerjaan saya!
+
+#                  Context menu
+o_tab_context_menu=Menu konteks
+#           About
+o_tab_about=Tentang
+#              Settings
+o_tab_settings=Pengaturan
+
+#        pixels
+o_pixels=piksel
+#         seconds
+o_seconds=detik
+
+#        or
+label_or=atau
+
+#             Hello :)
+o_about_hello=Halo :)
+#             My name is Juraj Mäsiar and I'm the author of $1.
+o_about_intro=Nama saya Juraj Mäsiar dan saya pengarang $1.
+#               If you like it, please rate it here:
+o_about_like_it=Jika Anda menyukainya, beri peringkat di sini:
+#              Thank you!
+o_about_thanks=Terima kasih!
+#               Contact:
+o_about_contact=Kontak:
+#              Report issues:
+o_about_issues=Laporkan masalah:
+#                    Social media:
+o_about_social_media=Media sosial:
+
+#             No matching results
+ps_no_results=Tidak ada hasil yang cocok
+
+#             No data
+label_no_data=Tidak ada data
+
+#         Dark mode
+dark_mode=Mode gelap
+#                Controlled by system
+dark_mode_system=Dikendalikan oleh sistem

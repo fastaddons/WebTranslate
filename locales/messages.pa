@@ -1,0 +1,169 @@
+#               Translate
+o_tab_translate=ਅਨੁਵਾਦ
+
+#                 Google Translate
+translator_GOOGLE=Google Translate
+#                    Google 翻译
+translator_GOOGLE_CN=Google 翻译
+#               Microsoft Translator
+translator_BING=Microsoft Translator
+#                百度翻译 (Baidu Translator)
+translator_BAIDU=百度翻译 (Baidu Translator)
+
+#         Modal window
+open_in_0=ਮਾਡਲ ਵਿੰਡੋ
+#         Popup window
+open_in_1=ਪੌਪ-ਅਪ ਵਿੰਡੋ
+#         New tab
+open_in_2=ਨਵੀਂ ਟੈਬ
+#         New window
+open_in_3=ਨਵੀਂ ਵਿੰਡੋ
+
+#            Modal window
+modal_window=ਮਾਡਲ ਵਿੰਡੋ
+#                   Toolbar icon action
+toolbar_icon_action=ਟੂਲਬਾਰ ਆਈਕਨ ਐਕਸ਼ਨ
+
+#                    Translation provider
+translation_provider=ਅਨੁਵਾਦ ਪ੍ਰਦਾਤਾ
+#            Translate to:
+translate_to=ਇਸ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ:
+#          No overlay (the dark area around)
+no_overlay=ਕੋਈ ਓਵਰਲੇਅ ਨਹੀਂ (ਆਸ ਪਾਸ ਦਾ ਹਨੇਰਾ ਖੇਤਰ)
+#               Modal window will stay opened even if you click outside.
+no_overlay_hint=ਮਾਡਲ ਵਿੰਡੋ ਖੁੱਲੀ ਰਹੇਗੀ ਭਾਵੇਂ ਤੁਸੀਂ ਬਾਹਰ ਕਲਿਕ ਕਰੋ.
+#x                 Open translator in:
+open_translator_in=
+#                   Open translation in:
+open_translation_in=ਇਸ ਵਿਚ ਖੋਲ੍ਹੋ ਅਨੁਵਾਦ:
+#          Fallback method
+fallback_1=ਫਾਲਬੈਕ ਵਿਧੀ
+#          Fallback method
+fallback_2=ਫਾਲਬੈਕ ਵਿਧੀ
+#              Modal window and popup window can't be used in some cases.
+fallback_title=ਮਾਡਲ ਵਿੰਡੋ ਅਤੇ ਪੌਪ-ਅਪ ਵਿੰਡੋ ਨੂੰ ਕੁਝ ਮਾਮਲਿਆਂ ਵਿੱਚ ਨਹੀਂ ਵਰਤਿਆ ਜਾ ਸਕਦਾ.
+#           Open in new tab
+open_in_tab=ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
+
+#                   Translate this page
+translate_this_page=ਇਸ ਪੇਜ ਦਾ ਅਨੁਵਾਦ ਕਰੋ
+#                   Translate "$1"
+selection_translate="$1" ਦਾ ਅਨੁਵਾਦ ਕਰੋ
+#              Translate page
+page_translate=ਸਫ਼ਾ ਅਨੁਵਾਦ ਕਰੋ
+
+#             selected text
+selected_text=ਚੁਣਿਆ ਪਾਠ
+
+#                    Disable context menu: "$1"
+disable_context_menu=ਪ੍ਰਸੰਗ ਮੀਨੂੰ ਅਯੋਗ ਕਰੋ: "$1"
+
+
+
+#        Web Translate
+app_name=Web Translate
+#        "Web Translate" is easy to use translator for your Web browser / Thunderbird!
+app_desc="Web Translate" ਤੁਹਾਡੇ ਵੈੱਬ ਬਰਾ browserਜ਼ਰ / ਥੰਡਰਬਰਡ ਲਈ ਅਨੁਵਾਦਕ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਅਸਾਨ ਹੈ!
+
+
+#               Import finished!
+import_finished=ਆਯਾਤ ਖਤਮ!
+#            Error
+import_error=ਗਲਤੀ
+#                  Import backup file $1
+import_backup_file=$1 ਬੈਕਅਪ ਫਾਈਲ ਆਯਾਤ ਕਰੋ
+
+
+#             Search
+search_search=ਖੋਜ
+
+
+#        Homepage
+homepage=ਹੋਮਪੇਜ
+#          Addon page
+addon_page=ਐਡਨ ਪੇਜ
+
+
+#               Font size
+label_font_size=ਫੋਂਟ ਅਕਾਰ
+#          Next
+label_next=ਅਗਲਾ
+#          Note:
+label_note=ਨੋਟ:
+#            Remove
+label_remove=ਹਟਾਓ
+#             WARNING:
+label_warning=ਚੇਤਾਵਨੀ:
+#             Default:
+label_default=ਮੂਲ:
+#          Done!
+label_done=ਹੋ ਗਿਆ!
+#            Copied!
+label_copied=ਕਾੱਪੀ ਕੀਤੀ ਗਈ!
+#           Close
+label_close=ਬੰਦ ਕਰੋ
+#               Open page
+label_open_page=ਪੇਜ ਖੋਲ੍ਹੋ
+
+
+#           Agree
+label_agree=ਸਹਿਮਤ
+#            Cancel
+label_cancel=ਰੱਦ ਕਰੋ
+
+
+#             Help this project
+op_support_me=ਇਸ ਪ੍ਰੋਜੈਕਟ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰੋ
+#                 Support independent developer!
+support_developer=ਸੁਤੰਤਰ ਵਿਕਾਸਕਾਰ ਦਾ ਸਮਰਥਨ ਕਰੋ!
+#           Hello there!
+hello_there=ਨਮਸਤੇ!
+#        I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive.
+about_me=ਮੈਂ 2016 ਤੋਂ ਐਡਨ ਡਿਵੈਲਪਰ ਹਾਂ ਅਤੇ ਮੇਰਾ ਟੀਚਾ ਤੁਹਾਡੇ ਵੈੱਬ ਬਰਾ webਜ਼ਰ ਲਈ ਤੁਹਾਨੂੰ ਵਧੇਰੇ ਲਾਭਕਾਰੀ ਬਣਾਉਣ ਲਈ ਸ਼ਕਤੀਸ਼ਾਲੀ ਐਕਸਟੈਂਸ਼ਨਾਂ ਬਣਾਉਣਾ ਹੈ.
+#              If you think I'm doing a good job, please donate :)
+about_good_job=ਜੇ ਤੁਸੀਂ ਸੋਚਦੇ ਹੋ ਕਿ ਮੈਂ ਇੱਕ ਚੰਗਾ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ :)
+#            Your donation is my only income!
+about_income=ਤੁਹਾਡਾ ਦਾਨ ਮੇਰੀ ਸਿਰਫ ਆਮਦਨੀ ਹੈ!
+#            Thank you for supporting my work!
+about_thanks=ਮੇਰੇ ਕੰਮ ਦਾ ਸਮਰਥਨ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ!
+
+#                  Context menu
+o_tab_context_menu=ਪ੍ਰਸੰਗ ਮੀਨੂੰ
+#           About
+o_tab_about=ਬਾਰੇ
+#              Settings
+o_tab_settings=ਸੈਟਿੰਗਜ਼
+
+#        pixels
+o_pixels=ਪਿਕਸਲ
+#         seconds
+o_seconds=ਸਕਿੰਟ
+
+#        or
+label_or=ਜਾਂ
+
+#             Hello :)
+o_about_hello=ਸਤ ਸ੍ਰੀ ਅਕਾਲ :)
+#             My name is Juraj Mäsiar and I'm the author of $1.
+o_about_intro=ਮੇਰਾ ਨਾਮ ਜੁਰਾਜ ਮਸੀਅਰ ਹੈ ਅਤੇ ਮੈਂ $1 ਦਾ ਲੇਖਕ ਹਾਂ.
+#               If you like it, please rate it here:
+o_about_like_it=ਜੇ ਤੁਸੀਂ ਇਸ ਨੂੰ ਪਸੰਦ ਕਰਦੇ ਹੋ, ਕਿਰਪਾ ਕਰਕੇ ਇੱਥੇ ਦਰਜਾ ਦਿਓ:
+#              Thank you!
+o_about_thanks=ਤੁਹਾਡਾ ਧੰਨਵਾਦ!
+#               Contact:
+o_about_contact=ਸੰਪਰਕ:
+#              Report issues:
+o_about_issues=ਰਿਪੋਰਟ ਮੁੱਦਿਆਂ:
+#                    Social media:
+o_about_social_media=ਸੋਸ਼ਲ ਮੀਡੀਆ:
+
+#             No matching results
+ps_no_results=ਕੋਈ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ
+
+#             No data
+label_no_data=ਕੋਈ ਡਾਟਾ ਨਹੀਂ
+
+#         Dark mode
+dark_mode=ਡਾਰਕ ਮੋਡ
+#                Controlled by system
+dark_mode_system=ਸਿਸਟਮ ਦੁਆਰਾ ਨਿਯੰਤਰਿਤ

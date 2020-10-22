@@ -1,0 +1,169 @@
+#               Translate
+o_tab_translate=翻訳する
+
+#                 Google Translate
+translator_GOOGLE=Google Translate
+#                    Google 翻译
+translator_GOOGLE_CN=Google 翻译
+#               Microsoft Translator
+translator_BING=Microsoft Translator
+#                百度翻译 (Baidu Translator)
+translator_BAIDU=百度翻译 (Baidu Translator)
+
+#         Modal window
+open_in_0=モーダルウィンドウ
+#         Popup window
+open_in_1=ポップアップウィンドウ
+#         New tab
+open_in_2=新しいタブ
+#         New window
+open_in_3=新しい窓
+
+#            Modal window
+modal_window=モーダルウィンドウ
+#                   Toolbar icon action
+toolbar_icon_action=ツールバーアイコンアクション
+
+#                    Translation provider
+translation_provider=翻訳プロバイダー
+#            Translate to:
+translate_to=翻訳：
+#          No overlay (the dark area around)
+no_overlay=オーバーレイなし（周囲の暗い領域）
+#               Modal window will stay opened even if you click outside.
+no_overlay_hint=外側をクリックしてもモーダルウィンドウは開いたままになります。
+#x                 Open translator in:
+open_translator_in=
+#                   Open translation in:
+open_translation_in=で翻訳を開く：
+#          Fallback method
+fallback_1=フォールバック方式
+#          Fallback method
+fallback_2=フォールバック方式
+#              Modal window and popup window can't be used in some cases.
+fallback_title=モーダルウィンドウやポップアップウィンドウが使用できない場合があります。
+#           Open in new tab
+open_in_tab=新しいタブで開く
+
+#                   Translate this page
+translate_this_page=このページを翻訳する
+#                   Translate "$1"
+selection_translate=「$1」を翻訳
+#              Translate page
+page_translate=翻訳ページ
+
+#             selected text
+selected_text=選択したテキスト
+
+#                    Disable context menu: "$1"
+disable_context_menu=コンテキストメニューを無効にする：「$1」
+
+
+
+#        Web Translate
+app_name=Web Translate
+#        "Web Translate" is easy to use translator for your Web browser / Thunderbird!
+app_desc=「WebTranslate」はあなたのWebブラウザ/ Thunderbird用の使いやすい翻訳者です！
+
+
+#               Import finished!
+import_finished=インポートが完了しました！
+#            Error
+import_error=エラー
+#                  Import backup file $1
+import_backup_file=バックアップファイル$1をインポートします
+
+
+#             Search
+search_search=探す
+
+
+#        Homepage
+homepage=ホームページ
+#          Addon page
+addon_page=アドオンページ
+
+
+#               Font size
+label_font_size=フォントサイズ
+#          Next
+label_next=次
+#          Note:
+label_note=注意：
+#            Remove
+label_remove=削除する
+#             WARNING:
+label_warning=警告：
+#             Default:
+label_default=デフォルト：
+#          Done!
+label_done=完了！
+#            Copied!
+label_copied=コピーしました！
+#           Close
+label_close=閉じる
+#               Open page
+label_open_page=ページを開く
+
+
+#           Agree
+label_agree=同意する
+#            Cancel
+label_cancel=キャンセル
+
+
+#             Help this project
+op_support_me=このプロジェクトを支援する
+#                 Support independent developer!
+support_developer=独立した開発者をサポートしてください！
+#           Hello there!
+hello_there=こんにちは！
+#        I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive.
+about_me=私は2016年からアドオン開発者です。私の目標は、Webブラウザーの強力な拡張機能を構築して、生産性を高めることです。
+#              If you think I'm doing a good job, please donate :)
+about_good_job=私が良い仕事をしていると思うなら、寄付してください:)
+#            Your donation is my only income!
+about_income=あなたの寄付は私の唯一の収入です！
+#            Thank you for supporting my work!
+about_thanks=私の仕事をサポートしてくれてありがとう！
+
+#                  Context menu
+o_tab_context_menu=コンテキストメニュー
+#           About
+o_tab_about=約
+#              Settings
+o_tab_settings=設定
+
+#        pixels
+o_pixels=ピクセル
+#         seconds
+o_seconds=秒
+
+#        or
+label_or=または
+
+#             Hello :)
+o_about_hello=こんにちは ：）
+#             My name is Juraj Mäsiar and I'm the author of $1.
+o_about_intro=私の名前はJurajMäsiarで、$1の作者です。
+#               If you like it, please rate it here:
+o_about_like_it=あなたがそれを好きなら、ここでそれを評価してください：
+#              Thank you!
+o_about_thanks=ありがとうございました！
+#               Contact:
+o_about_contact=連絡先：
+#              Report issues:
+o_about_issues=問題の報告：
+#                    Social media:
+o_about_social_media=ソーシャルメディア：
+
+#             No matching results
+ps_no_results=一致する結果はありません
+
+#             No data
+label_no_data=データなし
+
+#         Dark mode
+dark_mode=ダークモード
+#                Controlled by system
+dark_mode_system=システムによる制御

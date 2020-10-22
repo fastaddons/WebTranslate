@@ -1,0 +1,112 @@
+o_tab_translate=Translate
+
+# // ___copy
+translator_GOOGLE=Google Translate
+# // ___copy
+translator_GOOGLE_CN=Google 翻译
+# // ___copy
+translator_BING=Microsoft Translator
+# // ___copy
+translator_BAIDU=百度翻译 (Baidu Translator)
+
+open_in_0=Modal window
+open_in_1=Popup window
+open_in_2=New tab
+open_in_3=New window
+
+modal_window=Modal window
+toolbar_icon_action=Toolbar icon action
+
+translation_provider=Translation provider
+translate_to=Translate to:
+no_overlay=No overlay (the dark area around)
+no_overlay_hint=Modal window will stay opened even if you click outside.
+# // ___skip_auto_translate
+open_translator_in=Open translator in:
+open_translation_in=Open translation in:
+fallback_1=Fallback method
+fallback_2=Fallback method
+fallback_title=Modal window and popup window can't be used in some cases.
+open_in_tab=Open in new tab
+
+translate_this_page=Translate this page
+selection_translate=Translate "$1"
+page_translate=Translate page
+
+selected_text=selected text
+
+disable_context_menu=Disable context menu: "$1"
+
+
+# COMMON MESSAGES, put everything else above this line!
+# ------------------------------------------------------------------------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------------------------------------------------------------------------#
+# ------------------------------------------------------------------------------------------------------------------------------------------------#
+
+# This is the add-on name, translate only if you really think it needs to be translated // ___copy
+app_name=Web Translate
+# Addon description cannot be longer than 120 characters!
+app_desc="Web Translate" is easy to use translator for your Web browser / Thunderbird!
+
+
+import_finished=Import finished!
+import_error=Error
+import_backup_file=Import backup file $1
+
+
+search_search=Search
+
+
+homepage=Homepage
+addon_page=Addon page
+
+
+label_font_size=Font size
+label_next=Next
+label_note=Note:
+label_remove=Remove
+label_warning=WARNING:
+label_default=Default:
+label_done=Done!
+label_copied=Copied!
+label_close=Close
+label_open_page=Open page
+
+
+label_agree=Agree
+label_cancel=Cancel
+
+
+op_support_me=Help this project
+support_developer=Support independent developer!
+hello_there=Hello there!
+about_me=I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive.
+about_good_job=If you think I'm doing a good job, please donate :)
+about_income=Your donation is my only income!
+about_thanks=Thank you for supporting my work!
+
+o_tab_context_menu=Context menu
+o_tab_about=About
+o_tab_settings=Settings
+
+o_pixels=pixels
+o_seconds=seconds
+
+label_or=or
+
+o_about_hello=Hello :)
+o_about_intro=My name is Juraj Mäsiar and I'm the author of $1.
+o_about_like_it=If you like it, please rate it here:
+o_about_thanks=Thank you!
+o_about_contact=Contact:
+o_about_issues=Report issues:
+o_about_social_media=Social media:
+
+#// power select:
+ps_no_results=No matching results
+
+#// tree check list
+label_no_data=No data
+
+dark_mode=Dark mode
+dark_mode_system=Controlled by system

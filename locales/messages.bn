@@ -1,0 +1,169 @@
+#               Translate
+o_tab_translate=অনুবাদ করা
+
+#                 Google Translate
+translator_GOOGLE=Google Translate
+#                    Google 翻译
+translator_GOOGLE_CN=Google 翻译
+#               Microsoft Translator
+translator_BING=Microsoft Translator
+#                百度翻译 (Baidu Translator)
+translator_BAIDU=百度翻译 (Baidu Translator)
+
+#         Modal window
+open_in_0=মডেল উইন্ডো
+#         Popup window
+open_in_1=ছোট জানালা
+#         New tab
+open_in_2=নতুন ট্যাব
+#         New window
+open_in_3=নতুন জানালা
+
+#            Modal window
+modal_window=মডেল উইন্ডো
+#                   Toolbar icon action
+toolbar_icon_action=সরঞ্জামদণ্ডের আইকন ক্রিয়া
+
+#                    Translation provider
+translation_provider=অনুবাদ প্রদানকারী
+#            Translate to:
+translate_to=এতে অনুবাদ করুন:
+#          No overlay (the dark area around)
+no_overlay=কোনও ওভারলে নেই (চারপাশের অন্ধকার অঞ্চল)
+#               Modal window will stay opened even if you click outside.
+no_overlay_hint=আপনি বাইরে ক্লিক করলেও মোডাল উইন্ডোটি খোলা থাকবে।
+#x                 Open translator in:
+open_translator_in=
+#                   Open translation in:
+open_translation_in=এতে অনুবাদ খুলুন:
+#          Fallback method
+fallback_1=ফলব্যাক পদ্ধতি
+#          Fallback method
+fallback_2=ফলব্যাক পদ্ধতি
+#              Modal window and popup window can't be used in some cases.
+fallback_title=মডেল উইন্ডো এবং পপআপ উইন্ডো কিছু ক্ষেত্রে ব্যবহার করা যায় না।
+#           Open in new tab
+open_in_tab=নতুন ট্যাবে খুলুন
+
+#                   Translate this page
+translate_this_page=এই পাতা অনুবাদ করুন
+#                   Translate "$1"
+selection_translate="$1" অনুবাদ করুন
+#              Translate page
+page_translate=পৃষ্ঠা অনুবাদ করুন
+
+#             selected text
+selected_text=নির্বাচিত পাঠ্য
+
+#                    Disable context menu: "$1"
+disable_context_menu=প্রসঙ্গ মেনুটি অক্ষম করুন: "$1"
+
+
+
+#        Web Translate
+app_name=Web Translate
+#        "Web Translate" is easy to use translator for your Web browser / Thunderbird!
+app_desc="Web Translate" আপনার ওয়েব ব্রাউজার / থান্ডারবার্ডের জন্য অনুবাদক ব্যবহার করা সহজ!
+
+
+#               Import finished!
+import_finished=আমদানি শেষ!
+#            Error
+import_error=ত্রুটি
+#                  Import backup file $1
+import_backup_file=$1 ব্যাকআপ ফাইল আমদানি করুন
+
+
+#             Search
+search_search=অনুসন্ধান করুন
+
+
+#        Homepage
+homepage=হোমপেজ
+#          Addon page
+addon_page=অ্যাডন পৃষ্ঠা
+
+
+#               Font size
+label_font_size=অক্ষরের আকার
+#          Next
+label_next=পরবর্তী
+#          Note:
+label_note=বিঃদ্রঃ:
+#            Remove
+label_remove=অপসারণ
+#             WARNING:
+label_warning=সতর্কতা:
+#             Default:
+label_default=ডিফল্ট:
+#          Done!
+label_done=সম্পন্ন!
+#            Copied!
+label_copied=অনুলিপি!
+#           Close
+label_close=বন্ধ
+#               Open page
+label_open_page=পৃষ্ঠা খুলুন
+
+
+#           Agree
+label_agree=একমত
+#            Cancel
+label_cancel=বাতিল
+
+
+#             Help this project
+op_support_me=এই প্রকল্পে সহায়তা করুন
+#                 Support independent developer!
+support_developer=সমর্থন স্বাধীন বিকাশকারী!
+#           Hello there!
+hello_there=হ্যালো!
+#        I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive.
+about_me=আমি ২০১ 2016 সাল থেকে অ্যাডন বিকাশকারী এবং আমার লক্ষ্য আপনাকে আরও উত্পাদনশীল করার জন্য আপনার ওয়েব-ব্রাউজারের জন্য শক্তিশালী এক্সটেনশন তৈরি করা।
+#              If you think I'm doing a good job, please donate :)
+about_good_job=আপনি যদি ভাবেন যে আমি একটি ভাল কাজ করছি, অনুগ্রহ করে দান করুন :)
+#            Your donation is my only income!
+about_income=আপনার অনুদান আমার একমাত্র আয়!
+#            Thank you for supporting my work!
+about_thanks=আমার কাজ সমর্থন করার জন্য আপনাকে ধন্যবাদ!
+
+#                  Context menu
+o_tab_context_menu=কনটেক্সট মেনু
+#           About
+o_tab_about=সম্পর্কিত
+#              Settings
+o_tab_settings=সেটিংস
+
+#        pixels
+o_pixels=পিক্সেল
+#         seconds
+o_seconds=সেকেন্ড
+
+#        or
+label_or=বা
+
+#             Hello :)
+o_about_hello=হ্যালো :)
+#             My name is Juraj Mäsiar and I'm the author of $1.
+o_about_intro=আমার নাম জুরাজ মুসিয়ার এবং আমি $1 এর লেখক।
+#               If you like it, please rate it here:
+o_about_like_it=আপনি যদি এটি পছন্দ করেন তবে দয়া করে এটি এখানে রেট দিন:
+#              Thank you!
+o_about_thanks=ধন্যবাদ!
+#               Contact:
+o_about_contact=যোগাযোগ:
+#              Report issues:
+o_about_issues=সমস্যাগুলি প্রতিবেদন করুন:
+#                    Social media:
+o_about_social_media=সামাজিক মাধ্যম:
+
+#             No matching results
+ps_no_results=কোনও মিল নেই
+
+#             No data
+label_no_data=কোনও ডেটা নেই
+
+#         Dark mode
+dark_mode=গা .় মোড
+#                Controlled by system
+dark_mode_system=সিস্টেম দ্বারা নিয়ন্ত্রিত

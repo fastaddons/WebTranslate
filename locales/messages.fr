@@ -1,0 +1,169 @@
+#               Translate
+o_tab_translate=Traduire
+
+#                 Google Translate
+translator_GOOGLE=Google Translate
+#                    Google 翻译
+translator_GOOGLE_CN=Google 翻译
+#               Microsoft Translator
+translator_BING=Microsoft Translator
+#                百度翻译 (Baidu Translator)
+translator_BAIDU=百度翻译 (Baidu Translator)
+
+#         Modal window
+open_in_0=Fenêtre modale
+#         Popup window
+open_in_1=Fenêtre contextuelle
+#         New tab
+open_in_2=Nouvel onglet
+#         New window
+open_in_3=Nouvelle fenetre
+
+#            Modal window
+modal_window=Fenêtre modale
+#                   Toolbar icon action
+toolbar_icon_action=Action de l'icône de la barre d'outils
+
+#                    Translation provider
+translation_provider=Fournisseur de traduction
+#            Translate to:
+translate_to=Traduire en:
+#          No overlay (the dark area around)
+no_overlay=Pas de superposition (la zone sombre autour)
+#               Modal window will stay opened even if you click outside.
+no_overlay_hint=La fenêtre modale restera ouverte même si vous cliquez à l'extérieur.
+#x                 Open translator in:
+open_translator_in=
+#                   Open translation in:
+open_translation_in=Ouvrir la traduction en:
+#          Fallback method
+fallback_1=Méthode de secours
+#          Fallback method
+fallback_2=Méthode de secours
+#              Modal window and popup window can't be used in some cases.
+fallback_title=La fenêtre modale et la fenêtre contextuelle ne peuvent pas être utilisées dans certains cas.
+#           Open in new tab
+open_in_tab=Ouvrir dans un nouvel onglet
+
+#                   Translate this page
+translate_this_page=Traduire cette page
+#                   Translate "$1"
+selection_translate=Traduire «$1»
+#              Translate page
+page_translate=Traduire la page
+
+#             selected text
+selected_text=texte sélectionné
+
+#                    Disable context menu: "$1"
+disable_context_menu=Désactiver le menu contextuel: "$1"
+
+
+
+#        Web Translate
+app_name=Web Translate
+#        "Web Translate" is easy to use translator for your Web browser / Thunderbird!
+app_desc="Web Translate" est un traducteur facile à utiliser pour votre navigateur Web / Thunderbird!
+
+
+#               Import finished!
+import_finished=Import terminé!
+#            Error
+import_error=Erreur
+#                  Import backup file $1
+import_backup_file=Importer le fichier de sauvegarde $1
+
+
+#             Search
+search_search=Recherche
+
+
+#        Homepage
+homepage=Page d'accueil
+#          Addon page
+addon_page=Page complémentaire
+
+
+#               Font size
+label_font_size=Taille de police
+#          Next
+label_next=Suivant
+#          Note:
+label_note=Note:
+#            Remove
+label_remove=Retirer
+#             WARNING:
+label_warning=AVERTISSEMENT:
+#             Default:
+label_default=Défaut:
+#          Done!
+label_done=Terminé!
+#            Copied!
+label_copied=Copié!
+#           Close
+label_close=proche
+#               Open page
+label_open_page=Ouvrir la page
+
+
+#           Agree
+label_agree=Se mettre d'accord
+#            Cancel
+label_cancel=Annuler
+
+
+#             Help this project
+op_support_me=Aidez ce projet
+#                 Support independent developer!
+support_developer=Soutenez le développeur indépendant!
+#           Hello there!
+hello_there=Bonjour!
+#        I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive.
+about_me=Je suis développeur d'addon depuis 2016 et mon objectif est de créer des extensions puissantes pour votre navigateur Web afin de vous rendre plus productif.
+#              If you think I'm doing a good job, please donate :)
+about_good_job=Si vous pensez que je fais du bon travail, faites un don :)
+#            Your donation is my only income!
+about_income=Votre don est mon seul revenu!
+#            Thank you for supporting my work!
+about_thanks=Merci de soutenir mon travail!
+
+#                  Context menu
+o_tab_context_menu=Menu contextuel
+#           About
+o_tab_about=À propos
+#              Settings
+o_tab_settings=Réglages
+
+#        pixels
+o_pixels=pixels
+#         seconds
+o_seconds=secondes
+
+#        or
+label_or=ou
+
+#             Hello :)
+o_about_hello=Bonjour :)
+#             My name is Juraj Mäsiar and I'm the author of $1.
+o_about_intro=Mon nom est Juraj Mäsiar et je suis l'auteur de $1.
+#               If you like it, please rate it here:
+o_about_like_it=Si l'add-on vous plaît, notez-le ici:
+#              Thank you!
+o_about_thanks=Merci!
+#               Contact:
+o_about_contact=Contact:
+#              Report issues:
+o_about_issues=Signaler les problèmes:
+#                    Social media:
+o_about_social_media=Réseaux sociaux:
+
+#             No matching results
+ps_no_results=Aucun résultat correspondant
+
+#             No data
+label_no_data=Pas de données
+
+#         Dark mode
+dark_mode=Mode sombre
+#                Controlled by system
+dark_mode_system=Contrôlé par le système
