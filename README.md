@@ -8,5 +8,14 @@
 [![librepay-patrons](https://img.shields.io/liberapay/patrons/juraj.masiar.svg?logo=liberapay)](https://liberapay.com/juraj.masiar/)
 [![librepay-receives](https://img.shields.io/liberapay/receives/juraj.masiar.svg?logo=liberapay)](https://liberapay.com/juraj.masiar/)
 
-# WebTranslate
-This repository is for tracking bugs and documentation only
+# Web Translate
+This repository is for tracking issues and translations.
+
+## How to translate
+To add new language, create new file under "locales/" with name "messages.XX" where "XX" is [language code](https://developer.chrome.com/webstore/i18n).
+
+To fix existing translations simply go to "locales/messages.XX" and fix the message.  
+
+Before releasing new version I will pull all changes and build extension.  
+
+**Thank You for your help!**
