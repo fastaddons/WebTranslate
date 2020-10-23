@@ -1,5 +1,5 @@
 #               Translate
-o_tab_translate=Isalin
+o_tab_translate=Traduzir
 
 #                 Google Translate
 translator_GOOGLE=Google Translate
@@ -15,162 +15,162 @@ translator_BING=Microsoft Translator
 translator_BAIDU=百度翻译 (Baidu Translator)
 
 #         Modal window
-open_in_0=Modal window
+open_in_0=Janela modal
 #         Popup window
-open_in_1=Popup window
+open_in_1=Janela de pop-up
 #         New tab
-open_in_2=Bagong tab
+open_in_2=Nova aba
 #         New window
-open_in_3=Bagong window
+open_in_3=Nova janela
 
 #            Modal window
-modal_window=Modal window
+modal_window=Janela modal
 #                   Toolbar icon action
-toolbar_icon_action=Pagkilos ng icon ng toolbar
+toolbar_icon_action=Ação do ícone da barra de ferramentas
 
 #            Sidebar size
 sidebar_size=
 
 #                    Translation provider
-translation_provider=Tagapagbigay ng pagsasalin
+translation_provider=Provedor de tradução
 #            Translate to:
-translate_to=Isalin sa:
+translate_to=Traduza para:
 #          No overlay (the dark area around)
-no_overlay=Walang overlay (ang madilim na lugar sa paligid)
+no_overlay=Sem sobreposição (a área escura ao redor)
 #               Modal window will stay opened even if you click outside.
-no_overlay_hint=Modal window ay mananatiling bukas kahit na mag-click ka sa labas.
+no_overlay_hint=A janela modal permanecerá aberta mesmo se você clicar fora.
 #x                 Open translator in:
 open_translator_in=
 #                   Open translation in:
-open_translation_in=Buksan ang pagsasalin sa:
+open_translation_in=Tradução aberta em:
 #          Fallback method
-fallback_1=Paraan ng fallback
+fallback_1=Método Fallback
 #          Fallback method
-fallback_2=Paraan ng fallback
+fallback_2=Método Fallback
 #              Modal window and popup window can't be used in some cases.
-fallback_title=Ang modal window at popup window ay hindi maaaring gamitin sa ilang mga kaso.
+fallback_title=A janela modal e a janela pop-up não podem ser usadas em alguns casos.
 #           Open in new tab
-open_in_tab=Buksan sa bagong tab
+open_in_tab=Abrir em nova aba
 
 #                   Translate this page
-translate_this_page=Isalin ang pahinang ito
+translate_this_page=Traduza esta página
 #                   Translate "$1"
-selection_translate=Isalin ang "$1"
+selection_translate=Traduzir "$1"
 #              Translate page
-page_translate=Pahina ng isalin
+page_translate=Traduzir página
 
 #             selected text
-selected_text=napiling teksto
+selected_text=texto selecionado
 
 #                    Disable context menu: "$1"
-disable_context_menu=Huwag paganahin ang menu ng konteksto: "$1"
+disable_context_menu=Desativar menu de contexto: "$1"
 
 
 
 #        Web Translate
 app_name=Web Translate
 #        "Web Translate" is easy to use translator for your Web browser / Thunderbird!
-app_desc=Ang "Web Translate" ay madaling gamitin na tagasalin para sa iyong Web browser / Thunderbird!
+app_desc="Web Translate" é um tradutor fácil de usar para o seu navegador da Web / Thunderbird!
 
 
 #               Import finished!
-import_finished=Tapos na ang pag-import!
+import_finished=Importação concluída!
 #            Error
-import_error=Error
+import_error=Erro
 #                  Import backup file $1
-import_backup_file=I-import ang backup na file na $1
+import_backup_file=Importar arquivo de backup $1
 
 
 #             Search
-search_search=Maghanap
+search_search=Procurar
 
 
 #        Homepage
-homepage=Homepage
+homepage=Pagina inicial
 #          Addon page
-addon_page=Pahina ng Addon
+addon_page=Página adicional
 
 
 #               Font size
-label_font_size=Laki ng font
+label_font_size=Tamanho da fonte
 #          Next
-label_next=Susunod
+label_next=Próximo
 #          Note:
-label_note=Tandaan:
+label_note=Notas:
 #            Remove
-label_remove=Tanggalin
+label_remove=Retirar
 #             WARNING:
-label_warning=BABALA:
+label_warning=AVISO:
 #             Default:
-label_default=Default:
+label_default=Padrão:
 #          Done!
-label_done=Tapos na!
+label_done=Feito!
 #            Copied!
-label_copied=Kinopya!
+label_copied=Copiado!
 #           Close
-label_close=Isara
+label_close=Perto
 #               Open page
-label_open_page=Buksan ang pahina
+label_open_page=Página aberta
 
 
 #           Agree
-label_agree=Sang-ayon
+label_agree=Aceita
 #            Cancel
-label_cancel=Kanselahin
+label_cancel=Cancelar
 
 
 #             Help this project
-op_support_me=Tulungan ang proyektong ito
+op_support_me=Ajude este projeto
 #                 Support independent developer!
-support_developer=Suportahan ang independiyenteng developer!
+support_developer=Apoie o desenvolvedor independente!
 #           Hello there!
-hello_there=Kamusta diyan!
+hello_there=Olá!
 #        I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive.
-about_me=Nag-develop ako ng addon mula pa noong 2016 at ang aking hangarin ay upang bumuo ng mga makapangyarihang extension para sa iyong web-browser upang mas maging produktibo ka.
+about_me=Sou desenvolvedor de complementos desde 2016 e meu objetivo é construir extensões poderosas para o seu navegador da web para torná-lo mais produtivo.
 #              If you think I'm doing a good job, please donate :)
-about_good_job=Kung sa palagay mo ay mahusay ako sa trabaho, mangyaring mag-abuloy :)
+about_good_job=Se você acha que estou fazendo um bom trabalho, por favor, doe :)
 #            Your donation is my only income!
-about_income=Ang donasyon mo lang ang kita ko!
+about_income=Sua doação é minha única renda!
 #            Thank you for supporting my work!
-about_thanks=Salamat sa pagsuporta sa aking trabaho!
+about_thanks=Obrigado por apoiar meu trabalho!
 
 #                  Context menu
-o_tab_context_menu=Menu ng konteksto
+o_tab_context_menu=Menu de contexto
 #           About
-o_tab_about=Tungkol sa
+o_tab_about=Sobre
 #              Settings
-o_tab_settings=Mga setting
+o_tab_settings=Configurações
 
 #        pixels
-o_pixels=mga pixel
+o_pixels=píxels
 #         seconds
-o_seconds=segundo
+o_seconds=segundos
 
 #        or
-label_or=o
+label_or=ou
 
 #             Hello :)
-o_about_hello=Kamusta :)
+o_about_hello=Olá :)
 #             My name is Juraj Mäsiar and I'm the author of $1.
-o_about_intro=Ang pangalan ko ay Juraj Mäsiar at ako ang may-akda ng $1.
+o_about_intro=Meu nome é Juraj Mäsiar e sou o criador de $1.
 #               If you like it, please rate it here:
-o_about_like_it=Kung gusto mo ito, mangyaring i-rate ito dito:
+o_about_like_it=Se você o aprecia, por favor avalie-o aqui:
 #              Thank you!
-o_about_thanks=Salamat!
+o_about_thanks=Obrigado!
 #               Contact:
-o_about_contact=Makipag-ugnay sa:
+o_about_contact=Contato:
 #              Report issues:
-o_about_issues=Iulat ang mga isyu:
+o_about_issues=Reportar problemas:
 #                    Social media:
-o_about_social_media=Social Media:
+o_about_social_media=Redes sociais:
 
 #             No matching results
-ps_no_results=Walang tumutugma na mga resulta
+ps_no_results=Sem resultados correspondentes
 
 #             No data
-label_no_data=Walang data
+label_no_data=Sem dados
 
 #         Dark mode
-dark_mode=Madilim na mode
+dark_mode=Modo escuro
 #                Controlled by system
-dark_mode_system=Kinokontrol ng system
+dark_mode_system=Controlado pelo sistema

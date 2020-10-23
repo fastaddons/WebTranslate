@@ -5,6 +5,10 @@ o_tab_translate=Vertalen
 translator_GOOGLE=Google Translate
 #                    Google 翻译
 translator_GOOGLE_CN=Google 翻译
+#                DeepL Translator
+translator_DEEPL=DeepL Translator
+#                 Yandex Translate
+translator_YANDEX=Yandex Translate
 #               Microsoft Translator
 translator_BING=Microsoft Translator
 #                百度翻译 (Baidu Translator)
@@ -23,6 +27,9 @@ open_in_3=Nieuw raam
 modal_window=Modaal venster
 #                   Toolbar icon action
 toolbar_icon_action=Actie werkbalkpictogram
+
+#            Sidebar size
+sidebar_size=
 
 #                    Translation provider
 translation_provider=Vertaalprovider

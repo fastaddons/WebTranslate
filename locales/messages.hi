@@ -5,6 +5,10 @@ o_tab_translate=अनुवाद करना
 translator_GOOGLE=Google Translate
 #                    Google 翻译
 translator_GOOGLE_CN=Google 翻译
+#                DeepL Translator
+translator_DEEPL=DeepL Translator
+#                 Yandex Translate
+translator_YANDEX=Yandex Translate
 #               Microsoft Translator
 translator_BING=Microsoft Translator
 #                百度翻译 (Baidu Translator)
@@ -23,6 +27,9 @@ open_in_3=नयी खिड़की
 modal_window=मोडल खिड़की
 #                   Toolbar icon action
 toolbar_icon_action=टूलबार आइकन कार्रवाई
+
+#            Sidebar size
+sidebar_size=
 
 #                    Translation provider
 translation_provider=अनुवाद प्रदाता

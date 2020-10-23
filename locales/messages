@@ -5,6 +5,10 @@ translator_GOOGLE=Google Translate
 # // ___copy
 translator_GOOGLE_CN=Google 翻译
 # // ___copy
+translator_DEEPL=DeepL Translator
+# // ___copy
+translator_YANDEX=Yandex Translate
+# // ___copy
 translator_BING=Microsoft Translator
 # // ___copy
 translator_BAIDU=百度翻译 (Baidu Translator)
@@ -16,6 +20,8 @@ open_in_3=New window
 
 modal_window=Modal window
 toolbar_icon_action=Toolbar icon action
+
+sidebar_size=Sidebar size
 
 translation_provider=Translation provider
 translate_to=Translate to:
