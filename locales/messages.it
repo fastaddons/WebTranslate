@@ -5,12 +5,14 @@ o_tab_translate=Tradurre
 translator_GOOGLE=Google Translate
 #                    Google 翻译
 translator_GOOGLE_CN=Google 翻译
+#               Microsoft Translator
+translator_BING=Microsoft Translator
 #                DeepL Translator
 translator_DEEPL=DeepL Translator
 #                 Yandex Translate
 translator_YANDEX=Yandex Translate
-#               Microsoft Translator
-translator_BING=Microsoft Translator
+#                    Яндекс Переводчик
+translator_YANDEX_RU=Яндекс Переводчик
 #                百度翻译 (Baidu Translator)
 translator_BAIDU=百度翻译 (Baidu Translator)
 
@@ -29,7 +31,7 @@ modal_window=Finestra modale
 toolbar_icon_action=Azione dell'icona della barra degli strumenti
 
 #            Sidebar size
-sidebar_size=
+sidebar_size=Dimensioni della barra laterale
 
 #                    Translation provider
 translation_provider=Fornitore di traduzioni
@@ -40,7 +42,7 @@ no_overlay=Nessuna sovrapposizione (l'area scura intorno)
 #               Modal window will stay opened even if you click outside.
 no_overlay_hint=La finestra modale rimarrà aperta anche se fai clic all'esterno.
 #x                 Open translator in:
-open_translator_in=
+open_translator_in=Apri traduttore in:
 #                   Open translation in:
 open_translation_in=Apri traduzione in:
 #          Fallback method
@@ -108,13 +110,13 @@ label_done=Fatto!
 #            Copied!
 label_copied=Copiato!
 #           Close
-label_close=Vicino
+label_close=Chiudi
 #               Open page
 label_open_page=Apri pagina
 
 
 #           Agree
-label_agree=Essere d'accordo
+label_agree=Conferma
 #            Cancel
 label_cancel=Annulla
 
@@ -126,7 +128,7 @@ support_developer=Supporta lo sviluppatore indipendente!
 #           Hello there!
 hello_there=Ciao!
 #        I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive.
-about_me=Sono sviluppatore di componenti aggiuntivi dal 2016 e il mio obiettivo è creare potenti estensioni per il tuo browser web per renderti più produttivo.
+about_me=Sono uno sviluppatore di componenti aggiuntivi dal 2016 e il mio obiettivo è creare potenti estensioni per il tuo browser web per renderti più produttivo.
 #              If you think I'm doing a good job, please donate :)
 about_good_job=Se pensi che stia facendo un buon lavoro, per favore fai una donazione :)
 #            Your donation is my only income!
@@ -137,7 +139,7 @@ about_thanks=Grazie per aver sostenuto il mio lavoro!
 #                  Context menu
 o_tab_context_menu=Menù contestuale
 #           About
-o_tab_about=
+o_tab_about=Scopri di più
 #              Settings
 o_tab_settings=Impostazioni
 
@@ -158,7 +160,7 @@ o_about_like_it=Se ti piace, votalo qui:
 #              Thank you!
 o_about_thanks=Grazie!
 #               Contact:
-o_about_contact=Contatto:
+o_about_contact=Contatti:
 #              Report issues:
 o_about_issues=Segnala problemi:
 #                    Social media:
