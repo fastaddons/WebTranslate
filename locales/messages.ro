@@ -5,12 +5,14 @@ o_tab_translate=Traduceți
 translator_GOOGLE=Google Translate
 #                    Google 翻译
 translator_GOOGLE_CN=Google 翻译
+#               Microsoft Translator
+translator_BING=Microsoft Translator
 #                DeepL Translator
 translator_DEEPL=DeepL Translator
 #                 Yandex Translate
 translator_YANDEX=Yandex Translate
-#               Microsoft Translator
-translator_BING=Microsoft Translator
+#                    Яндекс Переводчик
+translator_YANDEX_RU=Яндекс Переводчик
 #                百度翻译 (Baidu Translator)
 translator_BAIDU=百度翻译 (Baidu Translator)
 

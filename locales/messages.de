@@ -5,12 +5,14 @@ o_tab_translate=Übersetzen
 translator_GOOGLE=Google Translate
 #                    Google 翻译
 translator_GOOGLE_CN=Google 翻译
+#               Microsoft Translator
+translator_BING=Microsoft Translator
 #                DeepL Translator
 translator_DEEPL=DeepL Translator
 #                 Yandex Translate
 translator_YANDEX=Yandex Translate
-#               Microsoft Translator
-translator_BING=Microsoft Translator
+#                    Яндекс Переводчик
+translator_YANDEX_RU=Яндекс Переводчик
 #                百度翻译 (Baidu Translator)
 translator_BAIDU=百度翻译 (Baidu Translator)
 
@@ -26,7 +28,7 @@ open_in_3=Neues Fenster
 #            Modal window
 modal_window=Modales Fenster
 #                   Toolbar icon action
-toolbar_icon_action=Symbolleistensymbolaktion
+toolbar_icon_action=Funktionsleistensymbolaktion
 
 #            Sidebar size
 sidebar_size=
@@ -36,7 +38,7 @@ translation_provider=Übersetzungsanbieter
 #            Translate to:
 translate_to=Übersetzen ins:
 #          No overlay (the dark area around)
-no_overlay=Keine Überlagerung (der dunkle Bereich um)
+no_overlay=Keine Überlagerung (der umliegende dunkle Bereich)
 #               Modal window will stay opened even if you click outside.
 no_overlay_hint=Das modale Fenster bleibt geöffnet, auch wenn Sie nach draußen klicken.
 #x                 Open translator in:
@@ -128,7 +130,7 @@ hello_there=Hallo!
 #        I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive.
 about_me=Ich bin seit 2016 Addon-Entwickler und mein Ziel ist es, großartige Erweiterungen für Ihren Webbrowser zu erstellen, um Sie produktiver zu machen.
 #              If you think I'm doing a good job, please donate :)
-about_good_job=Wenn du denkst, ich mache einen guten Job, spende bitte :)
+about_good_job=Wenn Sie denken, ich mache einen guten Job, spende bitte :)
 #            Your donation is my only income!
 about_income=Ihre Spende ist mein einziges Einkommen!
 #            Thank you for supporting my work!
@@ -152,7 +154,7 @@ label_or=oder
 #             Hello :)
 o_about_hello=Hallo :-)
 #             My name is Juraj Mäsiar and I'm the author of $1.
-o_about_intro=Mein Name ist Juraj Mäsiar und ich bin der Programierer & Autor von $1.
+o_about_intro=Mein Name ist Juraj Mäsiar und ich bin der Programmierer & Autor von $1.
 #               If you like it, please rate it here:
 o_about_like_it=Wenn es Ihnen gefällt, bewerten Sie es bitte hier:
 #              Thank you!

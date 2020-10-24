@@ -5,11 +5,13 @@ translator_GOOGLE=Google Translate
 # // ___copy
 translator_GOOGLE_CN=Google 翻译
 # // ___copy
+translator_BING=Microsoft Translator
+# // ___copy
 translator_DEEPL=DeepL Translator
 # // ___copy
 translator_YANDEX=Yandex Translate
 # // ___copy
-translator_BING=Microsoft Translator
+translator_YANDEX_RU=Яндекс Переводчик
 # // ___copy
 translator_BAIDU=百度翻译 (Baidu Translator)
 
