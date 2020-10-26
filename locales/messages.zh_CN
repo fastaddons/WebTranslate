@@ -31,7 +31,7 @@ modal_window=模态窗
 toolbar_icon_action=工具栏图标动作
 
 #            Sidebar size
-sidebar_size=
+sidebar_size=边栏尺寸
 
 #                    Translation provider
 translation_provider=翻译提供者

@@ -31,7 +31,7 @@ modal_window=Modální okno
 toolbar_icon_action=Akce ikony panelu nástrojů
 
 #            Sidebar size
-sidebar_size=
+sidebar_size=Velikost postranního panelu
 
 #                    Translation provider
 translation_provider=Poskytovatel překladu

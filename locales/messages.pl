@@ -31,7 +31,7 @@ modal_window=Okno modalne
 toolbar_icon_action=Działanie ikony paska narzędzi
 
 #            Sidebar size
-sidebar_size=
+sidebar_size=Rozmiar paska bocznego
 
 #                    Translation provider
 translation_provider=Dostawca tłumaczeń

@@ -31,7 +31,7 @@ modal_window=Модальное окно
 toolbar_icon_action=Действие значка панели инструментов
 
 #            Sidebar size
-sidebar_size=
+sidebar_size=Размер боковой панели
 
 #                    Translation provider
 translation_provider=Поставщик переводов

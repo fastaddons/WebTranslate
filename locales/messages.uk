@@ -31,7 +31,7 @@ modal_window=Модальне вікно
 toolbar_icon_action=Дія значка на панелі інструментів
 
 #            Sidebar size
-sidebar_size=
+sidebar_size=Розмір бічної панелі
 
 #                    Translation provider
 translation_provider=Перекладач

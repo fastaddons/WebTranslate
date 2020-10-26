@@ -31,7 +31,7 @@ modal_window=Janela modal
 toolbar_icon_action=Ação do ícone da barra de ferramentas
 
 #            Sidebar size
-sidebar_size=
+sidebar_size=Tamanho da barra lateral
 
 #                    Translation provider
 translation_provider=Provedor de tradução
