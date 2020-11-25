@@ -19,3 +19,9 @@ To fix existing translations simply go to "locales/messages.XX" and fix the mess
 Before releasing new version I will pull all changes and build extension.  
 
 **Thank You for your help!**
+
+## Download:
+Thunderbird: https://addons.thunderbird.net/addon/web_translate/  
+Firefox: https://addons.mozilla.org/addon/web_translate/?utm_source=home  
+Chrome: https://chrome.google.com/webstore/detail/web-translate/gjfljooinclelkhmgegielehekdbmigm  
+
