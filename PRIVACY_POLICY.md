@@ -1,7 +1,8 @@
 # Privacy Policy
 
 WebTranslate doesn't collect any data.  
-User preferences (options page data) are stored only locally and are accessible only by extension itself.
+User preferences (options page data) are stored only locally and are accessible only by extension itself.  
+This translator extension doesn't have own translation servers - all translations are performed by one of the selected translation providers (DeepL, Google, etc). So all words you enter for translations are submitted to one of those translators.  
 
 
 ## Permissions
