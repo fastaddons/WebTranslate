@@ -8,10 +8,6 @@
 # Web Translate
 This repository is for tracking issues and translations.
 
-### Help with translations
-https://github.com/fastaddons/locales  
-*Thank you!*
-
 ## Download:
 Thunderbird: https://addons.thunderbird.net/addon/web_translate/  
 Firefox: https://addons.mozilla.org/addon/web_translate/?utm_source=home  
